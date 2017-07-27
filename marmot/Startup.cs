@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using marmot.Data;
+using Marmot.Data;
 using Marmot.Models;
-using marmot.Services;
+using Marmot.Services;
 
 namespace Marmot
 {

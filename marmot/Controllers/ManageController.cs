@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Marmot.Models;
 using Marmot.Models.ManageViewModels;
-using marmot.Services;
+using Marmot.Services;
 
 namespace marmot.Controllers
 {

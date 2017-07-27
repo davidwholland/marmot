@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Marmot.Models;
 using Marmot.Models.AccountViewModels;
-using marmot.Services;
+using Marmot.Services;
 
 namespace marmot.Controllers
 {

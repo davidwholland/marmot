@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Marmot.Models;
 
-namespace marmot.Data
+namespace Marmot.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
