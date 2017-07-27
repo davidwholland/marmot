@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace marmot.Models.AccountViewModels
+namespace Marmot.Models.AccountViewModels
 {
     public class SendCodeViewModel
     {

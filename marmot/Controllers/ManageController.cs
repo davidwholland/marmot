@@ -7,8 +7,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using marmot.Models;
-using marmot.Models.ManageViewModels;
+using Marmot.Models;
+using Marmot.Models.ManageViewModels;
 using marmot.Services;
 
 namespace marmot.Controllers

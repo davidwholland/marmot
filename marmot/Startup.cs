@@ -10,10 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using marmot.Data;
-using marmot.Models;
+using Marmot.Models;
 using marmot.Services;
 
-namespace marmot
+namespace Marmot
 {
     public class Startup
     {

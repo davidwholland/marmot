@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace marmot.Models.ManageViewModels
+namespace Marmot.Models.ManageViewModels
 {
     public class FactorViewModel
     {

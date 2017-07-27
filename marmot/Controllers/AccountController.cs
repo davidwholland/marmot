@@ -9,8 +9,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using marmot.Models;
-using marmot.Models.AccountViewModels;
+using Marmot.Models;
+using Marmot.Models.AccountViewModels;
 using marmot.Services;
 
 namespace marmot.Controllers
