@@ -13,7 +13,7 @@ using Marmot.Models;
 using Marmot.Models.AccountViewModels;
 using Marmot.Services;
 
-namespace marmot.Controllers
+namespace Marmot.Controllers
 {
     [Authorize]
     public class AccountController : Controller

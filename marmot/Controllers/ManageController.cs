@@ -11,7 +11,7 @@ using Marmot.Models;
 using Marmot.Models.ManageViewModels;
 using Marmot.Services;
 
-namespace marmot.Controllers
+namespace Marmot.Controllers
 {
     [Authorize]
     public class ManageController : Controller

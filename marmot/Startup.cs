@@ -80,6 +80,18 @@ namespace Marmot
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
+                    name: "about-route",
+                    template: "about",
+                    defaults: new { controller = "Home", action = "About" }
+                    );
+
+                routes.MapRoute(
+                    name: "contact-route",
+                    template: "contact",
+                    defaults: new { controller = "Home", action = "Contact" }
+                    );
+
+                routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
